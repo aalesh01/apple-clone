@@ -1,0 +1,21 @@
+.footer {
+  font-family: "Helvetica Neue";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 16px;
+  color: #6e6e73;
+  height: 70px;
+  position: fixed;
+  bottom: 0;
+  display: flex;
+  width: 80%;
+  flex-wrap: wrap;
+  background: #f5f5f7;
+  align-items: center;
+  padding-left: 20%;
+}
+
+.footer > div {
+  width: 250px;
+}
